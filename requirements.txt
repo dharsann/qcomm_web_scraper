@@ -1,0 +1,12 @@
+flask[async]
+flask-sqlalchemy
+beautifulsoup4
+requests
+psycopg2-binary
+playwright
+pandas
+fuzzywuzzy
+python-levenshtein
+gspread
+oauth2client
+openpyxl
